@@ -1,7 +1,7 @@
 ---
 layout: default
-title: readme
-nav_exclude: true
+title: 00.Introduction
+nav_order: 1
 ---
 
 ## Software
